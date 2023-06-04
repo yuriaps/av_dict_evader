@@ -1,6 +1,6 @@
 # Shellcode AV Evader
 This project main only educational porpouses, the idea was based on
-speachs of @Mr.Un1k0d3r and @mr.d0x
+speechs of @Mr.Un1k0d3r and @mr.d0x
 
 --- 
 
