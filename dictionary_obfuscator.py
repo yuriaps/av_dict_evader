@@ -1,4 +1,5 @@
-dictionary = ["zoophyte",
+dictionary = [
+"zoophyte",
 "zoophytes",
 "zoophytic",
 "zoophytical",
@@ -255,7 +256,7 @@ dictionary = ["zoophyte",
 "zZt",
 "ZZZ",
 ]
-payload = ["\xfc","\x48",] #PASTE THE PAYLOAD INSIDE THE BRACKETS 
+payload = [] #PASTE THE PAYLOAD INSIDE THE BRACKETS in format "\xde","\xad",...  
 hex_to_index = [ord(hex) for hex in payload]
 result = [dictionary[index] for index in hex_to_index]
 
