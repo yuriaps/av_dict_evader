@@ -11,7 +11,7 @@ speechs of @Mr.Un1k0d3r and @mr.d0x
 
 open file **dictionary_obfuscator.py** 
 
-Execute `$ dictionary_obfuscator.py < example_shellcode.txt`
+Execute `$ dictionary_obfuscator.py < shellcode_c_payload.txt`
 
 ---
 open file **reverse_shell.c**, paste the payload from python in the correct place
